@@ -205,4 +205,5 @@ npm run build
 6. Once deployed, add your Vercel URL to **Supabase Dashboard -> Authentication -> URL Configuration -> Redirect URLs** (e.g. `https://campus-pulse.vercel.app/**`).
 
 #   c a m p u s - p u l s e  
+ #   c a m p u s - p u l s e  
  
