@@ -203,3 +203,6 @@ npm run build
    - `NEXT_PUBLIC_SITE_URL` = your Vercel deployment URL (e.g. `https://campus-pulse.vercel.app`)
 5. Click **Deploy**.
 6. Once deployed, add your Vercel URL to **Supabase Dashboard -> Authentication -> URL Configuration -> Redirect URLs** (e.g. `https://campus-pulse.vercel.app/**`).
+
+#   c a m p u s - p u l s e  
+ 
